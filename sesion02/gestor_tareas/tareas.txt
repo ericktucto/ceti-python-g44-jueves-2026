@@ -1,3 +1,4 @@
 0|Salir comprar pan
 0|Ir al mall
-0|Pasear a Toby
+1|Pasear a Toby
+0|Comprar frutas en el mall
