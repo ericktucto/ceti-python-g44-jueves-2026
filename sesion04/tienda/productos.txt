@@ -1,0 +1,3 @@
+A01,Cafe,15.50
+A02,Leche,9.90
+A03,Inkakola 3ltr,12.90
